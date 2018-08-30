@@ -1,5 +1,5 @@
 # CSS Animation
-This repo contains the variouskey animation using only CSS
+This repo contains the various key animation using only CSS
 
 ```
 Loading_1
